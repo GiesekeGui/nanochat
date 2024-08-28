@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.nanochat</string>
+	<string>com.mobile.nanochat</string>
 	<key>PROJECT_ID</key>
 	<string>nanochat-e9b21</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1039636867285:ios:f23cd47809ac245c591a5c</string>
+	<string>1:1039636867285:ios:549bc6fa392ede3f591a5c</string>
 </dict>
 </plist>

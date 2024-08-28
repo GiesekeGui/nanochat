@@ -55,8 +55,8 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDj6iw-krNsDjBslrxWIiQAkM6p6jYsoes',
-    iosBundleId: 'com.example.nanochat',
-    appId: '1:1039636867285:ios:f23cd47809ac245c591a5c',
+    iosBundleId: 'com.mobile.nanochat',
+    appId: '1:1039636867285:ios:549bc6fa392ede3f591a5c',
     storageBucket: 'nanochat-e9b21.appspot.com',
     messagingSenderId: '1039636867285',
     iosClientId: 'undefined',
